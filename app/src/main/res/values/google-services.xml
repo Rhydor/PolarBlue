@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id_fb"          translatable="false">169619943708-jcfsd43quavv277j5g4p1mirnrqtkoci.apps.googleusercontent.com</string>
+    <string name="firebase_database_url_fb"          translatable="false">undefined</string>
+    <string name="gcm_defaultSenderId_fb"            translatable="false">169619943708</string>
+    <string name="google_api_key_fb"                 translatable="false">AIzaSyDdY1AkOkmcX407zza3F6-VurgiB_wtIVY</string>
+    <string name="google_app_id_fb"                  translatable="false">1:169619943708:android:5ce7d43ed83bb98fac0ad9</string>
+    <string name="google_crash_reporting_api_key_fb" translatable="false">AIzaSyDdY1AkOkmcX407zza3F6-VurgiB_wtIVY</string>
+    <string name="google_storage_bucket_fb"          translatable="false">polarblueapp.appspot.com</string>
+    <string name="project_id_fb"                     translatable="false">polarblueapp</string>
+</resources>

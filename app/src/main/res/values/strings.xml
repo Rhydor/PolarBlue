@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PolarBlue</string>
+    <string name="welcome">Ingresa para empezar a escuchar tu musica favorita.</string>
+    <string name="prefs_file_data_user">com.app.polarblue.PREFERENCE_FILE_KEY</string>
+</resources>

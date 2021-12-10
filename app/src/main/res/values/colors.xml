@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#050D21</color>
+    <color name="last_color">#1A67F8</color>
+    <color name="secon_color">#FFFDFB</color>
+    <color name="alternative">#C9D5EE</color>
+    <color name="alternativb">#B46CF8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFDFB</color>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169619943708",
+    "project_id": "polarblueapp",
+    "storage_bucket": "polarblueapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169619943708:android:5ce7d43ed83bb98fac0ad9",
+        "android_client_info": {
+          "package_name": "com.app.polarblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169619943708-u715r7sdqklerbkvdi7nc1mj1pt0ni9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.polarblue",
+            "certificate_hash": "b2feb4d56f8ccfa1351eacc7b75b3c379253fc65"
+          }
+        },
+        {
+          "client_id": "169619943708-jcfsd43quavv277j5g4p1mirnrqtkoci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdY1AkOkmcX407zza3F6-VurgiB_wtIVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169619943708-jcfsd43quavv277j5g4p1mirnrqtkoci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
